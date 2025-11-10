@@ -5,7 +5,7 @@
 # 🦺 SafeSite AI  
 **The Construction Site That Never Sleeps on Safety**
 
-![banner](https://raw.githubusercontent.com/its-rajesh/safesite-ai/main/banner.jpg)
+
 
 **65% of all fatal falls in India happen because a worker forgot a ₹180 helmet.**  
 We fixed that in 2 seconds.
@@ -67,20 +67,14 @@ https://safesiteai.streamlit.app
 - Shows live compliance score
 - Works on ₹5,000 phone, 2G network, Hindi + English
 
-**Used daily on 27+ sites across Maharashtra & Karnataka**  
-**Caught 1,846 violations before they became accidents**  
-**Saved 11 lives (documented)**
 
 ---
 
 <div align="center">
 
 **Upload → Detect → Save a Life**  
-https://safesiteai.streamlit.app
 
-<img src="https://raw.githubusercontent.com/its-rajesh/safesite-ai/main/demo.gif" width="100%"/>
 
-**Zero installation • 100% private • Works offline soon**
 
 </div>
 
