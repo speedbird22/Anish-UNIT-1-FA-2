@@ -10,7 +10,7 @@
 **65% of all fatal falls in India happen because a worker forgot a ₹180 helmet.**  
 We fixed that in 2 seconds.
 
-🔗 **LIVE APP:** [[https://safesiteai.streamlit.app](https://anish-unit-1-fa-2-ktfrtijmcmlknj4xsdvmfc.streamlit.app/)](https://anish-unit-1-fa-2-ktfrtijmcmlknj4xsdvmfc.streamlit.app/)
+🔗 **LIVE APP:** (https://anish-unit-1-fa-2-ktfrtijmcmlknj4xsdvmfc.streamlit.app/)
 
 </div>
 
